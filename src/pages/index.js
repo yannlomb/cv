@@ -143,7 +143,7 @@ const IndexPage = () => (
               Javascript - ES2015/2016 / Javascript frameworks - ReactJS - VueJS
               / ApolloJS / MobX / Micro Services / Application Architecture / UX
               / Oog voor design / Project Management / CSS / HTML / NodeJS /
-              GraphQL / MySQL / RethinkDB / Linux / Git
+              GraphQL / RESTful API's / MySQL / RethinkDB / Linux / Git
             </p>
           </div>
           <div className="item">
