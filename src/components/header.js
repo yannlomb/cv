@@ -1,14 +1,11 @@
 import React from 'react'
-import Link from 'gatsby-link'
-import logo from './yannicklogo.svg'
 
 const Header = ({ siteTitle }) => (
   <div>
-    <header className="green">
-      <img className="logo-start" src={logo} />
+    <header className="header">
       <h1>
-        Curriculum Vitae <br />
-        <span className="name">Yannick Lombart</span>
+        <span className="name">Yannick Lombart</span>{' '}
+        <span>Curriculum Vitae</span>
       </h1>
     </header>
   </div>
