@@ -11,10 +11,10 @@ module.exports = {
         name: 'Yannick Lombart Curriculum Vitae',
         short_name: 'CV',
         start_url: '.',
-        background_color: '#efefef',
-        theme_color: '#00ccb5',
+        background_color: 'blanchedalmond',
+        theme_color: 'salmon',
         display: 'minimal-ui',
-        icon: 'src/favicon.ico', // This path is relative to the root of the site.
+        icon: 'src/favicon.png', // This path is relative to the root of the site.
       },
     },
     {
